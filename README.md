@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E5CF7&width=300&height=60&lines=Software+Developer" alt="Typing SVG" />
 </div>
 
-prueba 2020
 
 <div align="center">
   
