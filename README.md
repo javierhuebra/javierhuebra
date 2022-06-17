@@ -1,6 +1,6 @@
 ### 👋Hola, gracias por visitar mi perfil de proyectos!😄
 
-- Mi nombre es Javier y me gusta mucho el área de las IT. En este lugar pongo la mayoría de mis ideas (algunas mas entretenidas que otras🤔) y me gusta experimentar.
+- Mi nombre es Javier y me gusta mucho el área de las IT. En esta plataforma subo la mayoría de mis ideas (algunas mas entretenidas que otras🤔) y me gusta experimentar.
 - Utilizo <b>twitter</b> como vitácora de aprendizaje para documentar secuencialmente mis progresos/dudas/inquietudes/etc con respecto a sistemas informáticos.
 - Podés verlo acá: <a href="https://twitter.com/juniorhuebra"><b>Vitácora de Javier</b></a> o  visitar mi perfil de linkedin en <a href="https://www.linkedin.com/in/javieremanuelhuebra/"><b>Linkedin Javier</b></a>
 ### 🌱Sobre mi:
