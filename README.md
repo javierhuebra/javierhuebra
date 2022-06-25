@@ -5,7 +5,8 @@
 - Podés verlo acá: <a href="https://twitter.com/juniorhuebra"><img src="https://img.shields.io/twitter/follow/juniorhuebra?color=blue&label=%20twitter&logo=twitter&style=for-the-badge"></img></a> o  visitar  <a href="https://www.linkedin.com/in/javieremanuelhuebra/"><b>Mi perfil de Linkedin</b></a>
 <hr>
 <div>
-<h3>Actualmente me estoy formando en<h3> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px"></img>, postgreSQL y nodeJS 
+<h3>Actualmente me estoy formando en<h3> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px"></img><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px"></img>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px"></img>
 </div>
 <hr>
 ### 🌱Sobre mi:
