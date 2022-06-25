@@ -4,7 +4,9 @@
 - Utilizo <b>twitter</b> como vitácora de aprendizaje para documentar secuencialmente mi progreso/dudas/inquietudes/etc. con respecto a sistemas informáticos y experiencias personales con el rubro.
 - Podés verlo acá: <a href="https://twitter.com/juniorhuebra"><img src="https://img.shields.io/twitter/follow/juniorhuebra?color=blue&label=%20twitter&logo=twitter&style=for-the-badge"></img></a> o  visitar  <a href="https://www.linkedin.com/in/javieremanuelhuebra/"><b>Mi perfil de Linkedin</b></a>
 <hr>
-- Actualmente me estoy formando en <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="100px" height="100px"></img>, postgreSQL y nodeJS 
+<div>
+<h3>Actualmente me estoy formando en<h3> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px"></img>, postgreSQL y nodeJS 
+</div>
 <hr>
 ### 🌱Sobre mi:
 Mi intrusión en el rubro comienza con la presentación del lenguaje <b>FORTRAN</b> en mi formación de técnico electromecánico, posteriormente lenguaje <b>C y C++</b> en la carrera de ingeniería electrónica. Conocer a fondo y utilizar estas tecnologías para la estructuración de sistemas embebidos electrónicos me generó mucho interés por programación orientada a objetos e interfaz gráfica para obtener mayor potencial y desarrollo de aplicaciones.
