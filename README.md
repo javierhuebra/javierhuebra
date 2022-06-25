@@ -23,7 +23,11 @@ Estoy en formación académica constante, cursando una tecnicatura en programaci
 <hr>
 <div>
 <h3>Habilidades:</h3>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50px" height="50px"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50px" height="50px"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50px" height="50px"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="50px" height="50px"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="50px" height="50px"></img>
 </div>
 <hr>
 <i>La mejor forma de aprender es entrenando las habilidades y disfruto cada día de entrenamiento.</i>
