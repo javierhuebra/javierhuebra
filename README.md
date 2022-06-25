@@ -5,7 +5,7 @@
 - Podés verlo acá: <a href="https://twitter.com/juniorhuebra"><img src="https://img.shields.io/twitter/follow/juniorhuebra?color=blue&label=%20twitter&logo=twitter&style=for-the-badge"></img></a> o  visitar  <a href="https://www.linkedin.com/in/javieremanuelhuebra/"><b>Mi perfil de Linkedin</b></a>
 <hr>
 <div>
-<h3>Actualmente cursando tecnicatura superior en programación <img src="https://global-uploads.webflow.com/5e2f2362e479664d4e15718a/5f29e1ec461f7103ed65d32c_Teclab-case-logo.svg"></img><h3> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px"></img><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px"></img>
+<h3>Actualmente cursando tecnicatura superior en programación <a href="https://www.teclab.edu.ar"><img src="https://global-uploads.webflow.com/5e2f2362e479664d4e15718a/5f29e1ec461f7103ed65d32c_Teclab-case-logo.svg" width="150px" height="50px"></img></a><h3> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px"></img><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px"></img>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="50px" height="50px"></img>
 </div>
 <hr>
