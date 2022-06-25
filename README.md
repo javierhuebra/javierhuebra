@@ -5,18 +5,26 @@
 - Podés verlo acá: <a href="https://twitter.com/juniorhuebra"><img src="https://img.shields.io/twitter/follow/juniorhuebra?color=blue&label=%20twitter&logo=twitter&style=for-the-badge"></img></a> o  visitar  <a href="https://www.linkedin.com/in/javieremanuelhuebra/"><b>Mi perfil de Linkedin</b></a>
 <hr>
 <div>
-<h3>Actualmente cursando tecnicatura superior en programación <a href="https://www.teclab.edu.ar"><img src="https://global-uploads.webflow.com/5e2f2362e479664d4e15718a/5f29e1ec461f7103ed65d32c_Teclab-case-logo.svg" width="150px" height="50px"></img></a><h3> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px"></img><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px"></img>
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="50px" height="50px"></img>
+<h3>Actualmente cursando tecnicatura superior en programación en <a href="https://www.teclab.edu.ar"><img src="https://global-uploads.webflow.com/5e2f2362e479664d4e15718a/5f29e1ec461f7103ed65d32c_Teclab-case-logo.svg" width="150px" height="50px"></img></a></h3>
+<hr>
+<h3>Formandome en:</h3>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="50px" height="50px"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="50px" height="50px"></img>
 </div>
 <hr>
-### 🌱Sobre mi:
+<h3>🌱Sobre mi:</h3>
 Mi intrusión en el rubro comienza con la presentación del lenguaje <b>FORTRAN</b> en mi formación de técnico electromecánico, posteriormente lenguaje <b>C y C++</b> en la carrera de ingeniería electrónica. Conocer a fondo y utilizar estas tecnologías para la estructuración de sistemas embebidos electrónicos me generó mucho interés por programación orientada a objetos e interfaz gráfica para obtener mayor potencial y desarrollo de aplicaciones.
 
 Actualmente me inclino por el desarrollo de aplicaciones <b>JAVASCRIPT con su apartado de librerías y frameworks</b>.
 
 Estoy en formación académica constante, cursando una tecnicatura en programación y realizando trabajos <i>Freelance</i>.
 <hr>
+<div>
+<h3>Habilidades:</h3>
 
+</div>
 <hr>
 <i>La mejor forma de aprender es entrenando las habilidades y disfruto cada día de entrenamiento.</i>
 
