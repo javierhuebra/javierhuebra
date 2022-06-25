@@ -2,7 +2,7 @@
 
 - Mi nombre es Javier. En esta plataforma subo la mayoría de mis ideas (algunas mas entretenidas que otras🤔) y me gusta experimentar.
 - Utilizo <b>twitter</b> como vitácora de aprendizaje para documentar secuencialmente mi progreso/dudas/inquietudes/etc. con respecto a sistemas informáticos y experiencias personales con el rubro.
-- Podés verlo acá: <a href="https://twitter.com/juniorhuebra"><b>Vitácora de Programación</b></a> o  visitar  <a href="https://www.linkedin.com/in/javieremanuelhuebra/"><b>Mi perfil de Linkedin</b></a>
+- Podés verlo acá: <a href="https://twitter.com/juniorhuebra"><img src="https://img.shields.io/twitter/follow/juniorhuebra?color=blue&label=%20twitter&logo=twitter&style=for-the-badge"></img></a> o  visitar  <a href="https://www.linkedin.com/in/javieremanuelhuebra/"><b>Mi perfil de Linkedin</b></a>
 ### 🌱Sobre mi:
 Mi intrusión en el rubro comienza con la presentación del lenguaje <b>FORTRAN</b> en mi formación de técnico electromecánico, posteriormente lenguaje <b>C y C++</b> en la carrera de ingeniería electrónica. Conocer a fondo y utilizar estas tecnologías para la estructuración de sistemas embebidos electrónicos me generó mucho interés por programación orientada a objetos e interfaz gráfica para obtener mayor potencial y desarrollo de aplicaciones.
 
