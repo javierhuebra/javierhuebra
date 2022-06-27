@@ -8,7 +8,7 @@
 </div>
 <hr>
 <div>
-<h3>Actualmente cursando tecnicatura superior en programación en <a href="https://www.teclab.edu.ar"><img src="https://global-uploads.webflow.com/5e2f2362e479664d4e15718a/5f29e1ec461f7103ed65d32c_Teclab-case-logo.svg" width="150px" height="50px"></img></a></h3>
+<h3>Actualmente cursando tecnicatura superior en programación en <a href="https://www.teclab.edu.ar">Instituto Tecnológico TecLab</img></a></h3>
 <hr>
 <h3>Formandome en:</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px"></img>
