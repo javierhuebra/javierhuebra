@@ -22,7 +22,7 @@ Mi intrusión en el rubro comienza con la presentación del lenguaje <b>FORTRAN<
 
 Actualmente me inclino por el desarrollo de aplicaciones <b>JAVASCRIPT con su apartado de librerías y frameworks</b>.
 
-Estoy en formación académica constante, cursando una tecnicatura en programación y realizando trabajos <i>Freelance</i>.
+Estoy en formación académica constante.
 <hr>
 <div>
 <h3>Habilidades:</h3>
