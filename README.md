@@ -1,10 +1,8 @@
 ### 👋Hola, gracias por visitar mi perfil de proyectos!😄
 
-- Mi nombre es Javier. En esta plataforma subo la mayoría de mis ideas (algunas menos entretenidas que otras🤔) y me gusta experimentar.
-- Utilizo <b>twitter</b> como vitácora de aprendizaje para documentar secuencialmente mi progreso/dudas/inquietudes/etc. con respecto a sistemas informáticos y experiencias personales con el rubro.
-<div>
-<a href="https://twitter.com/juniorhuebra"><img src="https://img.shields.io/twitter/follow/juniorhuebra?color=blue&label=%20twitter&logo=twitter&style=for-the-badge"></img></a>
-<a href="https://www.linkedin.com/in/javieremanuelhuebra/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="25px" height="25px"></a>
+- Mi nombre es Javier. En esta plataforma subo la mayoría de mis ideas (algunas menos entretenidas que otras🤔)
+
+- Linkedin: <br><a href="https://www.linkedin.com/in/javieremanuelhuebra/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="200px" height="50px"></a>
 </div>
 <hr>
 <div>
