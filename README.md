@@ -17,21 +17,19 @@
 Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
 
 <hr>
-  <h3 align="center">Degree Training :sparkles:</h3>
-  
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique CET-18 :sparkles:
-<br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :sparkles:
-
-<hr>
 <h3 align="center">Certifications :hammer: </h3>
   
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) Avalith ReactJS :sparkles:
+<br>
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :sparkles:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) environmental quality - INTI :sparkles: 
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 5s methodology - INTI :sparkles: 
 <br>
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique CET-18 :sparkles:
+
+
 
 <hr>
 <div>
