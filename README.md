@@ -17,14 +17,14 @@
 Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
 
 <hr>
-  <h3 align="center">Degree Training</h3>
+  <h3 align="center">Degree Training :sparkles:</h3>
   
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique CET-18 :sparkles:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :sparkles:
 
 <hr>
-<h3 align="center">Certifications</h3>
+<h3 align="center">Certifications :hammer: </h3>
   
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) Avalith ReactJS :sparkles:
 <br>
@@ -35,7 +35,7 @@ Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/
 
 <hr>
 <div>
-<h3 align="center">Tools :hammer: </h3>
+<h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
