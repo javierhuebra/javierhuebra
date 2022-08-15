@@ -1,51 +1,55 @@
-### 👋Hola, gracias por visitar mi perfil de proyectos!😄
-
-- Mi nombre es Javier. En esta plataforma subo la mayoría de mis ideas (algunas menos entretenidas que otras🤔)
-
-- Linkedin: <br><a href="https://www.linkedin.com/in/javieremanuelhuebra/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="200px" height="50px"></a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E5CF7&width=700&height=60&lines=Hi%2C+i'm+Javier+Huebra+-+Software+Developer" alt="Typing SVG" />
+</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/javieremanuelhuebra/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"        width="50px" height="50px"></a>
 </div>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JavierHuebra&theme=radical&card_width=400&height=600&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JavierHuebra&show_icons=true&card_width=400&height=600&theme=radical&%20%20%20%20%20%20include_all_commits=true&hide_border=true" />
+</p>
+
 <hr>
 <div>
-<h3>Actualmente cursando tecnicatura superior en programación en <a href="https://www.teclab.edu.ar">Instituto Tecnológico TecLab</img></a></h3>
+<h3>Currently studying higher technical degree in programming in <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a></h3>
+
+Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+
 <hr>
-<h3>Formandome en:</h3>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px" height="50px"></img>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/f31ecd8b034658fd5b1dd40aa16614767aeaa9ee/logos/git-icon.svg" width="50px" height="50px"></img>
+  <h3 align="center">Degree Training</h3>
+  
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique CET-18 :sparkles:
+<br>
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :sparkles:
 
-
-
-</div>
 <hr>
-<h3>🌱Sobre mi:</h3>
-Mi intrusión en el rubro comienza con la presentación del lenguaje <b>FORTRAN</b> en mi formación de técnico electromecánico, posteriormente lenguaje <b>C y C++</b> en la carrera de ingeniería electrónica. Conocer a fondo y utilizar estas tecnologías para la estructuración de sistemas embebidos electrónicos me generó mucho interés por programación orientada a objetos e interfaz gráfica para obtener mayor potencial y desarrollo de aplicaciones.
+<h3 align="center">Certifications</h3>
+  
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) Avalith ReactJS :sparkles:
+<br>
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) environmental quality - INTI :sparkles: 
+<br>
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 5s methodology - INTI :sparkles: 
+<br>
 
-Actualmente me inclino por el desarrollo de aplicaciones <b>JAVASCRIPT con su apartado de librerías y frameworks</b>.
-
-Estoy en formación académica constante.
 <hr>
 <div>
-<h3>Habilidades:</h3>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50px" height="50px"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50px" height="50px"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50px" height="50px"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="50px" height="50px"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="50px" height="50px"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="50px" height="50px"></img>
+<h3 align="center">Tools :hammer: </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=C&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=gray&style=for-the-badge">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
+</p>
 </div>
-<hr>
-<i>La mejor forma de aprender es entrenando las habilidades y disfruto cada día de entrenamiento.</i>
 
-<!--
-**javierhuebra/javierhuebra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
