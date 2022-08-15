@@ -1,9 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E5CF7&width=700&height=60&lines=Hi%2C+i'm+Javier+Huebra+-+Software+Developer" alt="Typing SVG" />
 </h1>
-<div align="center">
-  <a href="https://www.linkedin.com/in/javieremanuelhuebra/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"        width="50px" height="50px"></a>
-</div>
+
 
 <p align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JavierHuebra&theme=radical&card_width=400&height=600&hide_border=true" />
@@ -51,5 +49,11 @@ Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/
 </p>
 </div>
 
-
+<hr>
+<h3 align="left">Contact information</h3>
+e-mail: javieremanuelhuebra@gmail.com
+<br>
+linkedin: <a href="https://www.linkedin.com/in/javieremanuelhuebra/">Javier Huebra</a>
+<br>
+Portfolio: <a href="https://javierhuebra.github.io/curriculum/">myPortfolio</a>
 
