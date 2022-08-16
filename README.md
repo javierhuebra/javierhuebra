@@ -7,7 +7,7 @@
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JavierHuebra&theme=radical&card_width=400&height=600&hide_border=true" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JavierHuebra&show_icons=true&card_width=400&height=600&theme=radical&%20%20%20%20%20%20include_all_commits=true&hide_border=true" />
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=javierhuebra&label=Profile%20views&color=153066&style=flat" alt="javierhuebra" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=javierhuebra&label=Profile%20views&color=153066&style=flat" alt="javierhuebra" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierhuebra&layout=compact&card_width=1000&theme=tokyonight)](https://github.com/ezequielrango/github-readme-stats)
 <hr>
