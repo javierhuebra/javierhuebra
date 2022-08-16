@@ -17,7 +17,7 @@
 Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
 
 <hr>
-<h3 align="center">Certifications :hammer: </h3>
+<h3 align="center">Certifications</h3>
   
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) Avalith ReactJS :sparkles:
 <br>
