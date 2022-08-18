@@ -14,7 +14,7 @@
 <div>
 <h3>Currently studying higher technical degree in programming in <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a></h3>
 
-Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)
 
 <hr>
 <h3 align="center">Certifications</h3>
