@@ -14,13 +14,13 @@
 <div>
 <h3>Currently studying higher technical degree in programming in <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a></h3>
 
-Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)
+Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/17)
 
 <hr>
 <h3 align="center">Certifications</h3>
 
   
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) Avalith ReactJS :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33) Avalith ReactJS :sparkles:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :sparkles:
 <br>
