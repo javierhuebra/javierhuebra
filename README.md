@@ -25,7 +25,7 @@ Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :sparkles:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/2) Transformacion digital e industra 4.0 UTN-OIT :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/2) Transformacion digital e industra 4.0 UTN-UIA :sparkles:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) environmental quality - INTI :sparkles: 
 <br>
