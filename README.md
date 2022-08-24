@@ -15,25 +15,27 @@
 <div>
 <h3>Currently studying higher technical degree in programming in <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a></h3>
 
-Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/17)
+Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/17):hammer:
 
 <hr>
 <h3 align="center">Certifications</h3>
 
   
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33) Avalith ReactJS :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33) Avalith ReactJS :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/2) Transformacion digital e industra 4.0 UTN-Accenture-UIA :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/2) Transformacion digital e industra 4.0 UTN-Accenture-UIA :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) Comunicación Profesional e Inteligencia Emocional UTN-CLDOW :sparkles:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) environmental quality - INTI :sparkles: 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Fundamentos de Scrum - Scrum Study :sparkles: 
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 5s methodology - INTI :sparkles: 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 5s Methodology - INTI :sparkles: 
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique CET-18 :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Environmental Quality - INTI :sparkles: 
+<br>
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique CET-18 :hammer:
 
 
 
