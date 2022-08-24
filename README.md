@@ -23,9 +23,11 @@ Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/
   
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33) Avalith ReactJS :sparkles:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :sparkles:
-<br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/2) Transformacion digital e industra 4.0 UTN-Accenture-UIA :sparkles:
+<br>
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) Comunicación Profesional e Inteligencia Emocional UTN-CLDOW :sparkles:
+<br>
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :sparkles:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) environmental quality - INTI :sparkles: 
 <br>
