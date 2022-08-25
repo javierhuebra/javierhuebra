@@ -25,7 +25,7 @@ Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/2) Transformacion digital e industra 4.0 UTN-Accenture-UIA :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) Comunicación Profesional e Inteligencia Emocional UTN-CLDOW :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) Comunicación Profesional e Inteligencia Emocional UTN-CLDOW :sparkles:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :hammer:
 <br>
