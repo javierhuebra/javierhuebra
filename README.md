@@ -29,7 +29,7 @@ Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Fundamentos de Scrum - Scrum Study :sparkles: 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Scrum Fundamentals Certified (SFC) - SCRUMstudy :sparkles: 
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 5s Methodology - INTI :sparkles: 
 <br>
