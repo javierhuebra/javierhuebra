@@ -48,6 +48,7 @@ Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=C&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=C&logoColor=white">&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=gray&style=for-the-badge">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=posgresql&logoColor=white">&nbsp;&nbsp;
