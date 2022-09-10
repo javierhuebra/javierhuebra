@@ -21,9 +21,9 @@ Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/
 <h3 align="center">Certifications</h3>
 
   
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Skill Factory Bootcamp React - Avalith :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Skill Factory Bootcamp React - <a href="https://www.avalith.net/">Avalith</a> :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15) Transformacion digital e industra 4.0 UTN-Accenture-UIA :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/28) Comunicación Profesional e Inteligencia Emocional UTN-CLDOW :sparkles:
 <br>
