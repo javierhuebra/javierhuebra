@@ -25,7 +25,7 @@ Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/28) Comunicación Profesional e Inteligencia Emocional UTN-CLDOW :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) Comunicación Profesional e Inteligencia Emocional UTN-CLDOW :sparkles:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :hammer:
 <br>
