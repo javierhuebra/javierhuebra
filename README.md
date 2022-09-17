@@ -37,7 +37,7 @@ Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Environmental Quality - INTI :sparkles: 
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique CET-18 :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique CET-18  :hammer:
 
 
 
