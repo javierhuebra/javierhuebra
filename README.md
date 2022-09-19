@@ -70,5 +70,5 @@ e-mail: javieremanuelhuebra@gmail.com
 <br>
 linkedin: <a href="https://www.linkedin.com/in/javieremanuelhuebra/"> Javier Huebra</a>
 <br>
-Portfolio: <a href="https://javierhuebra.github.io/curriculum/">myPortfolio</a>
+Portfolio: <a href="https://javierhuebra.github.io/curriculum/">myPortfolio</a>(Work in progress)
 
