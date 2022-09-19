@@ -20,7 +20,7 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique CET-18  :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique <a href="https://cet18.edu.ar/">CET-18</a>  :hammer:
 <br>
 <hr>
 <h3 align="center">Certifications</h3>
