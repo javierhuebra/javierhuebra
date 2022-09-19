@@ -14,7 +14,7 @@
 <hr>
 <h3 align="center">Education</h3>
 <div>
-<h3 align='center'>Currently studying higher technical degree in programming in <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a> and Electronic Ingeneering at the <a href="https://www.frbb.utn.edu.ar/frbb/index.php">UTN-FRBB</a></h3>
+<h3 align='center'>Currently studying higher technical degree in programming at <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a> and Electronic Ingeneering at the <a href="https://www.frbb.utn.edu.ar/frbb/index.php">UTN-FRBB</a></h3>
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) Technical degree in programming TecLab :hammer:
 <br>
