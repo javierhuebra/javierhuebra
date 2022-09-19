@@ -12,15 +12,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierhuebra&layout=compact&card_width=1000&theme=tokyonight)](https://github.com/ezequielrango/github-readme-stats)
 <hr>
+<h3 align="center">Education</h3>
 <div>
-<h3>Currently studying higher technical degree in programming in <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a></h3>
+<h3 align='center'>Currently studying higher technical degree in programming in <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a> and Electronic Ingeneering at the <a href="https://www.frbb.utn.edu.ar/frbb/index.php">UTN-FRBB</a></h3>
 
-Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25):hammer:
-
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) Technical degree in programming TecLab :hammer:
+<br>
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :hammer:
+<br>
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique CET-18  :hammer:
+<br>
 <hr>
 <h3 align="center">Certifications</h3>
 
-  
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Skill Factory Bootcamp React - <a href="https://www.avalith.net/">Avalith</a> :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer:
@@ -29,15 +33,13 @@ Progress: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/38) Comunicación Profesional e Inteligencia Emocional UTN-CLDOW :sparkles:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :hammer:
-<br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Scrum Fundamentals Certified (SFC) - SCRUMstudy :sparkles: 
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 5s Methodology - INTI :sparkles: 
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Environmental Quality - INTI :sparkles: 
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique CET-18  :hammer:
+
 
 
 
