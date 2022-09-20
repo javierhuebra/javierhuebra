@@ -25,11 +25,11 @@
 <hr>
 <h3 align="center">Certifications</h3>
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Skill Factory Bootcamp React - <a href="https://www.avalith.net/">Avalith</a> :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55) Skill Factory Bootcamp React - <a href="https://www.avalith.net/">Avalith</a> :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/8) BackEnd Ruby - RoR - <a href="https://web-experto.com.ar/">Web Experto</a> :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) BackEnd Ruby - RoR - <a href="https://web-experto.com.ar/">Web Experto</a> :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/38) Comunicación Profesional e Inteligencia Emocional UTN-CLDOW :sparkles:
 <br>
