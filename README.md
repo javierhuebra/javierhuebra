@@ -25,7 +25,7 @@
 <hr>
 <h3 align="center">Certifications</h3>
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55) Skill Factory Bootcamp React - <a href="https://www.avalith.net/">Avalith</a> :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) Skill Factory Bootcamp React - <a href="https://www.avalith.net/">Avalith</a> :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer:
 <br>
