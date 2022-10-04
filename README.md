@@ -31,7 +31,7 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20) BackEnd Ruby - RoR - <a href="https://web-experto.com.ar/">Web Experto</a> :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) Argentina Programa #SeProgramar - Ministerio de educación :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Argentina Programa #SeProgramar - Ministerio de educación :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Comunicación Profesional e Inteligencia Emocional UTN -CLDOW :sparkles:
 <br>
