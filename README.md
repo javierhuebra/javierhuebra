@@ -32,7 +32,7 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Argentina Programa #SeProgramar - Ministerio de educación :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Comunicación Profesional e Inteligencia Emocional UTN -CLDOW :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55) Comunicación Profesional e Inteligencia Emocional UTN -CLDOW :sparkles:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Scrum Fundamentals Certified (SFC) - SCRUMstudy :sparkles: 
 <br>
