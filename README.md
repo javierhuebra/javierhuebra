@@ -28,11 +28,11 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/45) BackEnd Ruby - RoR - <a href="https://web-experto.com.ar/">Web Experto</a> :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/47) BackEnd Ruby - RoR - <a href="https://web-experto.com.ar/">Web Experto</a> :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55) Argentina Programa #SeProgramar - Ministerio de educación :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) Comunicación Profesional e Inteligencia Emocional UTN -CLDOW:sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/65) Comunicación Profesional e Inteligencia Emocional UTN -CLDOW:sparkles:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Scrum Fundamentals Certified (SFC) - SCRUMstudy:sparkles: 
 <br>
