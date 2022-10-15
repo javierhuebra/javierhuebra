@@ -36,7 +36,7 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Scrum Fundamentals Certified (SFC) - SCRUMstudy:sparkles: 
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 5s Methodology - INTI:sparkles: 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 5S Methodology - INTI:sparkles: 
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Environmental Quality - INTI:sparkles: 
 <br>
