@@ -17,7 +17,7 @@
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) Technical degree in programming TecLab :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Electronic Engeneering UTN-FRBB :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) <a href="https://drive.google.com/file/d/1wIS5_IB_rNeV3ZTOAcYFjvTF7PxbDZv6/view?usp=sharing" >Electronic Engeneering UTN-FRBB</a> :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique <a href="https://cet18.edu.ar/">CET-18</a>  :hammer:
 <br>
