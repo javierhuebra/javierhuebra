@@ -38,7 +38,7 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 5S Methodology - INTI :sparkles:<a href="https://drive.google.com/file/d/1qLCpvZ1n2jeK9C98Eorr6j7GR9F3_FiU/view?usp=sharing">View Certificate</a> 
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Environmental Quality - INTI :sparkles:<a href="https://drive.google.com/file/d/1l0iMnRAYrOVRLhsJZHRZHy1zyCy8N4_-/view?usp=sharing">View Certificate</a> 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Industrial & Environmental Quality - INTI :sparkles:<a href="https://drive.google.com/file/d/1l0iMnRAYrOVRLhsJZHRZHy1zyCy8N4_-/view?usp=sharing">View Certificate</a> 
 <br>
 
 
