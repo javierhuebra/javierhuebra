@@ -15,9 +15,9 @@
 <div>
 <h3 align='center'>Currently studying higher technical degree in programming at <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a> and Electronic Ingeneering at <a href="https://www.frbb.utn.edu.ar/frbb/index.php">UTN-FRBB</a></h3>
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/37) <a href="https://drive.google.com/file/d/16mVMHUzFoOKX0TM-oum_9dE_VUWpWh-P/view?usp=sharing">Technical degree in programming TecLab </a> :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/37)Technical degree in programming TecLab :hammer: <a href="https://drive.google.com/file/d/16mVMHUzFoOKX0TM-oum_9dE_VUWpWh-P/view?usp=sharing">View Certificate</a> 
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) <a href="https://drive.google.com/file/d/1wIS5_IB_rNeV3ZTOAcYFjvTF7PxbDZv6/view?usp=sharing" >Electronic Engeneering UTN-FRBB</a> :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) Electronic Engeneering UTN-FRBB :hammer:<a href="https://drive.google.com/file/d/1wIS5_IB_rNeV3ZTOAcYFjvTF7PxbDZv6/view?usp=sharing" >View Certificate</a> 
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique <a href="https://cet18.edu.ar/">CET-18</a>  :hammer:
 <br>
@@ -34,11 +34,11 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) Comunicación Profesional e Inteligencia Emocional UTN -CLDOW:sparkles:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=935780"> Scrum Fundamentals Certified (SFC) - SCRUMstudy</a>:sparkles: 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)  Scrum Fundamentals Certified (SFC) - SCRUMstudy :sparkles:<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=935780">View Certificate </a>
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) <a href="https://drive.google.com/file/d/1qLCpvZ1n2jeK9C98Eorr6j7GR9F3_FiU/view?usp=sharing">5S Methodology - INTI</a>:sparkles: 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 5S Methodology - INTI :sparkles:<a href="https://drive.google.com/file/d/1qLCpvZ1n2jeK9C98Eorr6j7GR9F3_FiU/view?usp=sharing">View Certificate</a> 
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) <a href="https://drive.google.com/file/d/1l0iMnRAYrOVRLhsJZHRZHy1zyCy8N4_-/view?usp=sharing">Environmental Quality - INTI</a>:sparkles: 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Environmental Quality - INTI :sparkles:<a href="https://drive.google.com/file/d/1l0iMnRAYrOVRLhsJZHRZHy1zyCy8N4_-/view?usp=sharing">View Certificate</a> 
 <br>
 
 
