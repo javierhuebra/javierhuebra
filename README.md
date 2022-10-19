@@ -34,7 +34,7 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) Comunicación Profesional e Inteligencia Emocional UTN -CLDOW:sparkles:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=935780" Scrum Fundamentals Certified (SFC) - SCRUMstudy</a>:sparkles: 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=935780"> Scrum Fundamentals Certified (SFC) - SCRUMstudy</a>:sparkles: 
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) <a href="https://drive.google.com/file/d/1qLCpvZ1n2jeK9C98Eorr6j7GR9F3_FiU/view?usp=sharing">5S Methodology - INTI</a>:sparkles: 
 <br>
