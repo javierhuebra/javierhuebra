@@ -11,9 +11,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javierhuebra&label=Profile%20views&color=153066&style=flat" alt="javierhuebra" /></p>
 
 
-<h3 align="center">Education</h3>
+## Education
 <div>
-<h3 align='center'>Currently studying higher technical degree in programming at <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a> and Electronic Ingeneering at <a href="https://www.frbb.utn.edu.ar/frbb/index.php">UTN-FRBB</a></h3>
+
+### Currently studying higher technical degree in programming at <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a> and Electronic Ingeneering at <a href="https://www.frbb.utn.edu.ar/frbb/index.php">UTN-FRBB</a>
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/37)Technical degree in programming TecLab :hammer: <a href="https://drive.google.com/file/d/16mVMHUzFoOKX0TM-oum_9dE_VUWpWh-P/view?usp=sharing">View Certificate</a> 
 <br>
@@ -21,9 +22,9 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique <a href="https://cet18.edu.ar/">CET-18</a>  :hammer:
 <br>
-<hr>
-<h3 align="center">Certifications</h3>
 
+
+## Certifications
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85) Skill Factory Bootcamp React - <a href="https://www.avalith.net/">Avalith</a> :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer:
@@ -45,10 +46,12 @@
 
 
 
-<hr>
+
 <div>
-<h3 align="center">Tools</h3>
-<p align="center">
+
+## Tools
+
+<p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
@@ -65,7 +68,9 @@
 </div>
 
 <hr>
-<h3 align="left">Contact information</h3>
+
+## Contact information
+
 e-mail:  javieremanuelhuebra@gmail.com
 <br>
 linkedin: <a href="https://www.linkedin.com/in/javieremanuelhuebra/"> Javier Huebra</a>
