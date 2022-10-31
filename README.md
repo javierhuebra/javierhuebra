@@ -46,13 +46,13 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 # Certifications
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90) Skill Factory Bootcamp React - <a href="https://www.avalith.net/">Avalith</a> :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90) Skill Factory Bootcamp ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) - <a href="https://www.avalith.net/">Avalith</a> :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) BackEnd Ruby - RoR - <a href="https://web-experto.com.ar/">Web Experto</a> :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) BackEnd Ruby - ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) - <a href="https://web-experto.com.ar/">Web Experto</a> :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/96) Argentina Programa #SeProgramar - Ministerio de educación :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/96) Argentina Programa #SeProgramar ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) - Ministerio de educación :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80) Comunicación Profesional e Inteligencia Emocional UTN -CLDOW:sparkles:
 <br>
