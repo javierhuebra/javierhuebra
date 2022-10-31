@@ -52,9 +52,9 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) BackEnd Ruby - ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) - <a href="https://web-experto.com.ar/">Web Experto</a> :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/96) Argentina Programa #SeProgramar ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) - Ministerio de educación :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/96) Argentina Programa #SeProgramar ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) - <a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa">Ministerio de Economía</a> :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80) Comunicación Profesional e Inteligencia Emocional UTN -CLDOW:sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80) Comunicación Profesional e Inteligencia Emocional <a href="https://ceut.frbb.utn.edu.ar/web/curso.php?id=2817">UTN -CLDOW</a>:sparkles:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)  Scrum Fundamentals Certified (SFC) - SCRUMstudy :sparkles:<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=935780">View Certificate </a>
 <br>
