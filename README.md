@@ -65,7 +65,7 @@
 
 # Contact information
 
-e-mail  javieremanuelhuebra@gmail.com
+e-mail: javieremanuelhuebra@gmail.com
 <br>
 linkedin: <a href="https://www.linkedin.com/in/javieremanuelhuebra/"> Javier Huebra</a>
 <br>
