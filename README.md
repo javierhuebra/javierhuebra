@@ -46,7 +46,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 # Certifications
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90) Skill Factory Bootcamp - Desarrollo Web Front End ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) - <a href="https://www.avalith.net/">Avalith</a> :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Skill Factory Bootcamp - Desarrollo Web Front End ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) - <a href="https://www.avalith.net/">Avalith</a> :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/65) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer:
 <br>
