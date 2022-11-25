@@ -7,7 +7,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JavierHuebra&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierHuebra&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
-a
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javierhuebra&label=Profile%20views&color=153066&style=flat" alt="javierhuebra" /></p>
 
 
@@ -59,7 +59,7 @@ a
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Skill Factory Bootcamp - Tech Skills IT- <a href="https://www.avalith.net/">Avalith</a> :sparkles:
 <a href="https://drive.google.com/file/d/1_wLrvF93fRva2bWMHvlLX381vD4F2x6H/view?usp=sharing">View Certificate</a> 
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95) Comunicación Profesional e Inteligencia Emocional - <a href="https://ceut.frbb.utn.edu.ar/web/curso.php?id=2817">UTN - CLDOW</a>:sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Comunicación Profesional e Inteligencia Emocional - <a href="https://ceut.frbb.utn.edu.ar/web/curso.php?id=2817">UTN - CLDOW</a>:sparkles:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)  Scrum Fundamentals Certified (SFC) - SCRUMstudy :sparkles:<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=935780">View Certificate </a>
 <br>
