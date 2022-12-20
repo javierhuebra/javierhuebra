@@ -51,7 +51,7 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer: Certificado en trámite
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Web Experto Ruby - Desarrollo Web Back End ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) - <a href="https://web-experto.com.ar/">Web Experto</a> :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Web Experto Ruby - Desarrollo Web Back End ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) - <a href="https://web-experto.com.ar/">Web Experto</a> :hammer: <a href="https://drive.google.com/file/d/10VlZGjWX4Skc03q7PuTeI8syWZ94QeqZ/view?usp=sharing">View Certificate</a> 
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Argentina Programa #SeProgramar ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) - <a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa">Ministerio de Economía</a> :hammer: Certificado en trámite
 <br>
