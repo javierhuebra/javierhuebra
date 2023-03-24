@@ -44,7 +44,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-a
+
 # Certifications
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Skill Factory Bootcamp - Desarrollo Web Front End ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) - <a href="https://www.avalith.net/">Avalith</a> :hammer:
 <a href="https://drive.google.com/file/d/1J4uhfk7yo19ScHhRZnE3B-Tz_iLf_1Cq/view?usp=sharing">View Certificate</a> 
