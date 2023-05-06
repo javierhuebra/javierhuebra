@@ -2,8 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E5CF7&width=700&height=60&lines=Hi%2C+i'm+Javier+Huebra+-+Software+Developer" alt="Typing SVG" />
 </h1>
 
-<div align="center">
 
+
+<div align="center">
+  <h2 align="center"> Development of web, android and iOS applications</h2
+    
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JavierHuebra&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierHuebra&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
