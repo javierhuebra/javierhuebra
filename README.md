@@ -16,9 +16,9 @@
 
 ### Currently studying higher technical degree in programming at <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a> and Electronic Ingeneering at <a href="https://www.frbb.utn.edu.ar/frbb/index.php">UTN-FRBB</a>
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/37)Technical degree in programming TecLab :hammer: <a href="https://drive.google.com/file/d/16mVMHUzFoOKX0TM-oum_9dE_VUWpWh-P/view?usp=sharing">View Certificate</a> 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/37)Technical degree in programming TecLab :hammer: 
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) Electronic Engeneering UTN-FRBB :hammer:<a href="https://drive.google.com/file/d/1wIS5_IB_rNeV3ZTOAcYFjvTF7PxbDZv6/view?usp=sharing" >View Certificate</a> 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) Electronic Engeneering UTN-FRBB :hammer:
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique <a href="https://cet18.edu.ar/">CET-18</a>  :hammer:
 <br>
@@ -45,34 +45,11 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-# Certifications
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Skill Factory Bootcamp - Desarrollo Web Front End ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) - <a href="https://www.avalith.net/">Avalith</a> :hammer:
-<a href="https://drive.google.com/file/d/1J4uhfk7yo19ScHhRZnE3B-Tz_iLf_1Cq/view?usp=sharing">View Certificate</a> 
-<br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Transformacion digital e industra 4.0<a href="https://www.uia.org.ar/RutaX/formacionTalento"> UTN-Accenture-UIA</a> :hammer: <a href="https://drive.google.com/file/d/1cejksbNOOpE2Xvc2BVRiU5DqRb_OCxQd/view?usp=sharing">View Certificate</a> 
-<br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Web Experto Ruby - Desarrollo Web Back End ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) - <a href="https://web-experto.com.ar/">Web Experto</a> :hammer: <a href="https://drive.google.com/file/d/10VlZGjWX4Skc03q7PuTeI8syWZ94QeqZ/view?usp=sharing">View Certificate</a> 
-<br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Argentina Programa #SeProgramar ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) - <a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa">Ministerio de Economía</a> :hammer:<a href="https://drive.google.com/file/d/1GvTD3Jki7VMOQqX-BmtQCrIbgU4dD_pH/view?usp=sharing">View Certificate</a>
-<br>
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Skill Factory Bootcamp - Tech Skills IT- <a href="https://www.avalith.net/">Avalith</a> :sparkles:
-<a href="https://drive.google.com/file/d/1_wLrvF93fRva2bWMHvlLX381vD4F2x6H/view?usp=sharing">View Certificate</a> 
-<br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Comunicación Profesional e Inteligencia Emocional - <a href="https://ceut.frbb.utn.edu.ar/web/curso.php?id=2817">UTN - CLDOW</a>:sparkles:<a href="https://drive.google.com/file/d/1b2S3D9rfKz5jmahQWfPlzN22bMaTmM04/view?usp=sharing">View Certificate</a> 
-<br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)  Scrum Fundamentals Certified (SFC) - SCRUMstudy :sparkles:<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=935780">View Certificate </a>
-<br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 5S Methodology - INTI :sparkles:<a href="https://drive.google.com/file/d/1qLCpvZ1n2jeK9C98Eorr6j7GR9F3_FiU/view?usp=sharing">View Certificate</a> 
-<br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Industrial & Environmental Quality - INTI :sparkles:<a href="https://drive.google.com/file/d/1l0iMnRAYrOVRLhsJZHRZHy1zyCy8N4_-/view?usp=sharing">View Certificate</a> 
+ 
 <br>
 
 # Contact information
 
-e-mail: javieremanuelhuebra@gmail.com
-<br>
 linkedin: <a href="https://www.linkedin.com/in/javieremanuelhuebra/"> Javier Huebra</a>
-<br>
-Portfolio: <a href="https://javierhuebra.github.io/curriculum/">myPortfolio</a>(Work in progress)
+
 
