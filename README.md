@@ -51,8 +51,6 @@
  
 <br>
 
-# Contact information
 
-linkedin: <a href="https://www.linkedin.com/in/javieremanuelhuebra/"> Javier Huebra</a>
 
 
