@@ -8,7 +8,7 @@
   <h2 align="center"> Web, android and iOS applications - Full Stack Java</h2
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JavierHuebra&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierHuebra&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javierhuebra&label=Profile%20views&color=153066&style=flat" alt="javierhuebra" /></p>
