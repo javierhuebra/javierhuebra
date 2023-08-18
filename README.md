@@ -13,7 +13,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javierhuebra&label=Profile%20views&color=153066&style=flat" alt="javierhuebra" /></p>
 
-![javierhuebra github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=javierhuebra)
+<p align="center">
+  <a>
+    <img src="https://www.codewars.com/users/javierhuebra/badges/large" alt="CodeWars Profile">
+  </a>
+</p>
 
 # Education
 <div>
