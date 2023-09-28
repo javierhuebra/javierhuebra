@@ -23,7 +23,7 @@
 
 ### Currently studying higher technical degree in programming at <a href="https://www.teclab.edu.ar">technological Institute TecLab</img></a> and Electronic Ingeneering at <a href="https://www.frbb.utn.edu.ar/frbb/index.php">UTN-FRBB</a>
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)Technical degree in programming :hammer: 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/87)Technical degree in programming :hammer: 
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) Electronic Engeneering :hammer:
 <br>
