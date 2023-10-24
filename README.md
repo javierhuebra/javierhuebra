@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E5CF7&width=700&height=60&lines=Hi%2C+i'm+Javier+Huebra+-+Software+Developer" alt="Typing SVG" />
 </h1>
 
-
+.
 <div align="center">
   <h2 align="center"> Web, android and iOS applications - Full Stack Java</h2
     
