@@ -35,7 +35,7 @@
 <br>
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) Electronic Engeneering :hammer:
 <br>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique <a href="https://cet18.edu.ar/">CET-18</a>  :hammer:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Electromechanical Technique :hammer:
 <br>
 
 <img src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg">
