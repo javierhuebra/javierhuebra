@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2 align="center"> Web and Mobile applications - Full Stack Java</h2
-    
+    .
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JavierHuebra&theme=dark&hide_border=true)<br/>
 
 </div>
