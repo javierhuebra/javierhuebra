@@ -11,24 +11,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JavierHuebra&theme=dark&hide_border=true)<br/>
 
 </div>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javierhuebra&label=Profile%20views&color=153066&style=flat" alt="javierhuebra" /></p>
-
 <p align="center">
   <a>
     <img src="https://www.codewars.com/users/javierhuebra/badges/large" alt="CodeWars Profile">
   </a>
 </p>
-
 <div align="center">
-  
   <a href="https://javierhuebra.github.io/Portfolio/">
      <img src="./javier.png"/>
     SEE MY PORTFOLIO
   </a>
 </div>
-
-
 <img src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg">
 
 
