@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E5CF7&width=700&height=60&lines=Hi%2C+i'm+Javier+Huebra+-+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E5CF7&width=700&height=60&lines=Software+Developer" alt="Typing SVG" />
 </h1>
 
 
@@ -17,12 +17,7 @@
     <img src="https://www.codewars.com/users/javierhuebra/badges/large" alt="CodeWars Profile">
   </a>
 </p>
-<div align="center">
-  <a href="https://javierhuebra.github.io/Portfolio/">
-     <img src="./javier.png"/>
-    SEE MY PORTFOLIO
-  </a>
-</div>
+
 <img src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg">
 
 
